@@ -1,0 +1,1 @@
+This is the first project within The Odin Project's Foundation curriculum showcasing an introduction to HTML. The project is titled "Recipes" and utilizes basic, introdctory skills within HTML. 
